@@ -1,0 +1,5 @@
+.catalog-detail__main {position:sticky; top:100px; align-self:flex-start}
+
+@media (max-width:767px) {
+    .catalog-detail__main {position:static; top:auto; align-self:auto}
+}
